@@ -1,6 +1,6 @@
 {
 	"name": "gurramsanjaya",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Personal digital business card",
 	"main": "./bin/card.mjs",
 	"bin": {
