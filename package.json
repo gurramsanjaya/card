@@ -1,10 +1,10 @@
 {
 	"name": "gurramsanjaya",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "Personal digital business card",
 	"main": "bin/card.mjs",
 	"bin": {
-		"gurramsanjaya": "./bin/card.mjs"
+		"gurramsanjaya": "bin/card.mjs"
 	},
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
